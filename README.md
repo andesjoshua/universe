@@ -11,6 +11,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# What this project is about
+## What this project is
 
 I'm just having fun trying to make an idea I have into reality
